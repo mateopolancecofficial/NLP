@@ -1,2 +1,2 @@
 # NLP
-NLP solutions
+Natural Language Processing projects solutions
